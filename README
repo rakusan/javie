@@ -1,0 +1,22 @@
+Javie 0.7
+NOT coming soon
+
+十分な開発時間が取れないけど再開したい…
+
+0.5.13はこちら
+http://sourceforge.jp/projects/javie/
+
+
+以下、0.7で考えていること
+* Eclipse Luna(4.4)またはそれ以降に刷新
+* Eclipseのワークスペースを活用する形に
+  プロジェクトファイルはなくなり、ワークスペース上のプロジェクトとする
+  1コンポジション1ファイル
+  旧プロジェクトファイルのインポートはできるようにする
+* UIの改善
+  タイムラインパネルの刷新、プレビュー画面上での編集
+  (efxclipseでjavafxとか?…)
+* OpenGL 3.3 または OpenGL ES2 を選択できるように
+  Windows版はES2(Google ANGLE使用)をデフォルトにし、OpenGL3.3も選べるように
+* 入出力のプラグイン化
+* MacOSX10.9以降, Windows7以降
